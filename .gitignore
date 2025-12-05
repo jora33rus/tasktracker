@@ -1,0 +1,32 @@
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Database
+*.db
+*.sql
+*.h2.db
+
+# Docker
+docker-data/
+postgres-data/
+
+# Logs
+logs/
+
+# Temp files
+tmp/
+temp/
